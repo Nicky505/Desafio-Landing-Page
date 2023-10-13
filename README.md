@@ -1,4 +1,4 @@
-# Desafio-Landing-Page
+# Desafio 1 - Resolução
 Desafio Landing Page proprosto pela Escola DNC.
 
 Link do site disponibilizado: https://stellar-paletas-72424f.netlify.app
